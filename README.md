@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello, I'm Boty
 
-<!--
-**BotyB/BotyB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently enrolled in a Backend Programming Course focused on Java, SQL, and backend system design.  
+Previously, I completed a Manual & Automation Testing course and became eager to deepen my skills in Java and software development.
 
-Here are some ideas to get you started:
+💻 My projects include:
+- Java backend applications
+- SQL database exercises
+- Algorithm challenges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tools I use:
+- IntelliJ IDEA
+- DataGrip (trial)
+- Git & GitHub
+- VSCode
+- PostgreSQL & MySQL
+- Postman
+
+🔍 I’m applying for the GitHub Student Developer Pack to support my backend development journey and gain access to JetBrains tools like DataGrip and IntelliJ IDEA.
+
+Thanks for visiting!
