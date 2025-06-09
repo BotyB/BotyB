@@ -10,12 +10,11 @@ Previously, I completed a Manual & Automation Testing course and became eager to
 
 🛠 Tools I use:
 - IntelliJ IDEA
-- DataGrip (trial)
+- DataGrip
 - Git & GitHub
 - VSCode
 - PostgreSQL & MySQL
 - Postman
 
-🔍 I’m applying for the GitHub Student Developer Pack to support my backend development journey and gain access to JetBrains tools like DataGrip and IntelliJ IDEA.
 
 Thanks for visiting!
